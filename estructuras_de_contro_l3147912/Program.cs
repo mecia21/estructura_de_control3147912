@@ -170,6 +170,40 @@ namespace estructuras_de_contro_l3147912
             //Console.ReadKey();
 
 
+            Console.WriteLine("----- CÁLCULO DE PRÉSTAMO CON INTERÉS SIMPLE -----");
+
+            // Entrada de datos
+            Console.Write("Ingrese el monto del préstamo: ");
+            double prestamo = Convert.ToDouble(Console.ReadLine());
+
+            double tasaAnual = 0.05;  // 5%
+            double plazoAnios = 5;
+
+            // ⿡ Intereses en un año
+            double interesAnual = prestamo * tasaAnual * 1;
+
+            // ⿢ Intereses en el tercer trimestre del año (3 meses = 0.25 años)
+            double interesTercerTrimestre = prestamo * tasaAnual * 0.25;
+
+            // ⿣ Intereses en el primer mes (1/12 años)
+            double interesPrimerMes = prestamo * tasaAnual * (1.0 / 12.0);
+
+            // ⿤ Total a pagar al final del préstamo (capital + intereses)
+            double interesTotal5Anios = prestamo * tasaAnual * plazoAnios;
+            double totalPagar = prestamo + interesTotal5Anios;
+
+            // Salida de resultados
+            Console.WriteLine("\n===== RESULTADOS =====");
+            Console.WriteLine($"Intereses pagados en un año: ${interesAnual:N2}");
+            Console.WriteLine($"Intereses pagados en el tercer trimestre: ${interesTercerTrimestre:N2}");
+            Console.WriteLine($"Intereses pagados en el primer mes: ${interesPrimerMes:N2}");
+            Console.WriteLine($"Total a pagar (capital + intereses 5 años): ${totalPagar:N2}");
+
+            Console.WriteLine("\nPresione cualquier tecla para salir...");
+            Console.ReadKey();
+
+
+
         }
     }
     }
