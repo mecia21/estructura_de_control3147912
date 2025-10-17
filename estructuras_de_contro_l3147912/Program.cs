@@ -38,13 +38,140 @@ namespace estructuras_de_contro_l3147912
             //    Console.WriteLine("desaprobado");
             //}
 
-            Console.WriteLine("ingrese el el precio del producto");
-            float product = int.Parse(Console.ReadLine());
-            if (product >= 100000)
-            {
-                Console.WriteLine($"se le aplica el 20% de descuento entonces es"prce)
-            }
-          
+            //Console.WriteLine("ingrese el el precio del producto");
+            //float product = int.Parse(Console.ReadLine());
+            //if (product >= 100000)
+            //{
+            //    Console.WriteLine($"se le aplica el 20% de descuento entonces es"prce)
+            //}
+
+            ////Console.WriteLine("Ingrese el monto del préstamo: ");
+            ////float monto = float.Parse(Console.ReadLine());
+
+            ////float interesAnual = monto * 0.05f;  // 5% anual
+            ////float interesTrimestre = interesAnual / 4;  // 4 trimestres por año
+            ////float interesMes = interesAnual / 12;       // 12 meses por año
+
+            ////float totalPagar = monto + (interesAnual * 5);  // total en 5 años
+
+            ////Console.WriteLine("Interés pagado en un año: " + interesAnual);
+            ////Console.WriteLine("Interés pagado en el tercer trimestre: " + interesTrimestre);
+            ////Console.WriteLine("Interés pagado en el primer mes: " + interesMes);
+            ////Console.WriteLine("Total a pagar incluyendo intereses: " + totalPagar);
+
+
+
+
+
+            //Console.WriteLine("=== Colilla de Pago del Empleado ===\n");
+
+            //// Entrada de datos
+            //Console.Write("Ingrese el salario del empleado: ");
+            //double salario = double.Parse(Console.ReadLine());
+
+            //Console.Write("Ingrese el valor de ahorro mensual programado: ");
+            //double ahorro = double.Parse(Console.ReadLine());
+
+            //// Cálculos
+            //double aporteSalud = salario * 0.125;   // 12.5%
+            //double aportePension = salario * 0.16;  // 16%
+            //double totalDeducciones = aporteSalud + aportePension + ahorro;
+            //double totalRecibir = salario - totalDeducciones;
+
+            //// Salida de datos
+            //Console.WriteLine("\n--- Resultados ---");
+            //Console.WriteLine($"Salario del empleado: {salario:C}");
+            //Console.WriteLine($"Valor de ahorro mensual: {ahorro:C}");
+            //Console.WriteLine($"Aporte a Salud (12.5%): {aporteSalud:C}");
+            //Console.WriteLine($"Aporte a Pensión (16%): {aportePension:C}");
+            //Console.WriteLine($"Total a recibir: {totalRecibir:C}");
+
+            //Console.WriteLine("\nPresione cualquier tecla para finalizar...");
+            //Console.ReadKey();
+
+
+            //Console.WriteLine("=== Cálculo de Cuotas de Matrícula ===\n");
+
+            //// Entrada de datos
+            //Console.Write("Ingrese el valor total de la matrícula: ");
+            //double matricula = double.Parse(Console.ReadLine());
+
+            //// Cálculos
+            //double cuota1 = matricula * 0.40; // 40%
+            //double cuota2 = matricula * 0.25; // 25%
+            //double cuota3 = matricula * 0.20; // 20%
+            //double cuota4 = matricula * 0.15; // 15%
+
+            //// Salida de datos
+            //Console.WriteLine("\n--- Cuotas a pagar ---");
+            //Console.WriteLine($"Primera cuota (40%): {cuota1:C}");
+            //Console.WriteLine($"Segunda cuota (25%): {cuota2:C}");
+            //Console.WriteLine($"Tercera cuota (20%): {cuota3:C}");
+            //Console.WriteLine($"Cuarta cuota (15%): {cuota4:C}");
+
+            //Console.WriteLine("\nPresione cualquier tecla para finalizar...");
+            //Console.ReadKey();
+
+
+            //Console.WriteLine("=== Datos del Aprendiz y Cálculo de Edad ===\n");
+
+            //Console.Write("Ingrese el nombre del aprendiz: ");
+            //string nombre = Console.ReadLine();
+
+            //Console.Write("Ingrese la dirección del aprendiz: ");
+            //string direccion = Console.ReadLine();
+
+            //Console.Write("Ingrese el año de nacimiento del aprendiz: ");
+            //int anioNacimiento = int.Parse(Console.ReadLine());
+
+            //int anioActual = DateTime.Now.Year;
+            //int edad = anioActual - anioNacimiento;
+
+            //Console.WriteLine("\n--- Información del Aprendiz ---");
+            //Console.WriteLine($"Nombre: {nombre}");
+            //Console.WriteLine($"Dirección: {direccion}");
+            //Console.WriteLine($"Edad: {edad} años");
+
+            //Console.WriteLine("\nPresione cualquier tecla para salir...");
+            //Console.ReadKey();
+
+
+
+            //Console.WriteLine("=== Cálculo de tiempo para llenar baldes ===\n");
+
+            //double tiempoBalde1Litro = 1.5; // en horas
+
+            //// Regla de tres
+            //double tiempo3Litros = tiempoBalde1Litro * 3;
+            //double tiempo5Litros = tiempoBalde1Litro * 5;
+
+            //Console.WriteLine($"Tiempo para llenar 1 litro: {tiempoBalde1Litro} horas");
+            //Console.WriteLine($"Tiempo para llenar 3 litros: {tiempo3Litros} horas");
+            //Console.WriteLine($"Tiempo para llenar 5 litros: {tiempo5Litros} horas");
+
+            //Console.WriteLine("\nPresione cualquier tecla para salir...");
+            //Console.ReadKey();}
+
+
+
+            //Console.WriteLine("=== Cálculo de tiempo para subir una montaña ===\n");
+
+            //double alturaMontana = 7.0; // metros
+            //double tiempoTotal = 5.0;  // horas
+
+            //Console.Write("¿Cuántos metros desea subir el escalador?: ");
+            //double metrosSubir = double.Parse(Console.ReadLine());
+
+            //double tiempoEstimado = (metrosSubir * tiempoTotal) / alturaMontana;
+
+            //Console.WriteLine($"\nTiempo estimado para subir {metrosSubir} metros: {tiempoEstimado} horas");
+
+            //Console.WriteLine("\nPresione cualquier tecla para salir...");
+            //Console.ReadKey();
+
+
         }
     }
-}
+    }
+
+
