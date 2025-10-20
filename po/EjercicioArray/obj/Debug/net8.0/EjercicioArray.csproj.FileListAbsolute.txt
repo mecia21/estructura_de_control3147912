@@ -1,0 +1,14 @@
+C:\Users\kjmec\source\repos\po\EjercicioArray\bin\Debug\net8.0\EjercicioArray.exe
+C:\Users\kjmec\source\repos\po\EjercicioArray\bin\Debug\net8.0\EjercicioArray.deps.json
+C:\Users\kjmec\source\repos\po\EjercicioArray\bin\Debug\net8.0\EjercicioArray.runtimeconfig.json
+C:\Users\kjmec\source\repos\po\EjercicioArray\bin\Debug\net8.0\EjercicioArray.dll
+C:\Users\kjmec\source\repos\po\EjercicioArray\bin\Debug\net8.0\EjercicioArray.pdb
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.AssemblyInfoInputs.cache
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.AssemblyInfo.cs
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.csproj.CoreCompileInputs.cache
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.dll
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\refint\EjercicioArray.dll
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.pdb
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\EjercicioArray.genruntimeconfig.cache
+C:\Users\kjmec\source\repos\po\EjercicioArray\obj\Debug\net8.0\ref\EjercicioArray.dll
