@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|c:\\users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|solutionrelative:estructuras_de_contro_l3147912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|c:\\users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\centraldistribucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|solutionrelative:estructuras_de_contro_l3147912\\centraldistribucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|c:\\users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\camionalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|solutionrelative:estructuras_de_contro_l3147912\\camionalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|c:\\users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\tiktok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E8FC1-7D5D-4E1A-A4B9-3BD4F5A4BC65}|estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912.csproj|solutionrelative:estructuras_de_contro_l3147912\\tiktok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\Program.cs",
+              "RelativeDocumentMoniker": "estructuras_de_contro_l3147912\\Program.cs",
+              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\Program.cs*",
+              "RelativeToolTip": "estructuras_de_contro_l3147912\\Program.cs*",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAAwOABAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:32:00.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CentralDistribucion.cs",
+              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\CentralDistribucion.cs",
+              "RelativeDocumentMoniker": "estructuras_de_contro_l3147912\\CentralDistribucion.cs",
+              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\CentralDistribucion.cs*",
+              "RelativeToolTip": "estructuras_de_contro_l3147912\\CentralDistribucion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:25:17.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CamionAlcohol.cs",
+              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\CamionAlcohol.cs",
+              "RelativeDocumentMoniker": "estructuras_de_contro_l3147912\\CamionAlcohol.cs",
+              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\CamionAlcohol.cs*",
+              "RelativeToolTip": "estructuras_de_contro_l3147912\\CamionAlcohol.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:22:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TikTok.cs",
+              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\TikTok.cs",
+              "RelativeDocumentMoniker": "estructuras_de_contro_l3147912\\TikTok.cs",
+              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\estructuras_de_contro_l3147912\\TikTok.cs",
+              "RelativeToolTip": "estructuras_de_contro_l3147912\\TikTok.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:18:36.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

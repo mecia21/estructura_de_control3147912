@@ -5,3 +5,4 @@ C:\Users\kjmec\source\repos\ficha-31417912\estructuras_de_contro_l3147912\estruc
 C:\Users\kjmec\source\repos\ficha-31417912\estructuras_de_contro_l3147912\estructuras_de_contro_l3147912\obj\Debug\estructuras_de_contro_l3147912.csproj.CoreCompileInputs.cache
 C:\Users\kjmec\source\repos\ficha-31417912\estructuras_de_contro_l3147912\estructuras_de_contro_l3147912\obj\Debug\estructuras_de_contro_l3147912.exe
 C:\Users\kjmec\source\repos\ficha-31417912\estructuras_de_contro_l3147912\estructuras_de_contro_l3147912\obj\Debug\estructuras_de_contro_l3147912.pdb
+C:\Users\kjmec\source\repos\ficha-31417912\estructuras_de_contro_l3147912\estructuras_de_contro_l3147912\obj\Debug\estructuras_de_contro_l3147912.exe.config

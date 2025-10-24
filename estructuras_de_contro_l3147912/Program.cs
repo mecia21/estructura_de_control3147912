@@ -170,42 +170,320 @@ namespace estructuras_de_contro_l3147912
             //Console.ReadKey();
 
 
-            Console.WriteLine("----- CÁLCULO DE PRÉSTAMO CON INTERÉS SIMPLE -----");
+            //Console.WriteLine("----- CÁLCULO DE PRÉSTAMO CON INTERÉS SIMPLE -----");
 
-            // Entrada de datos
-            Console.Write("Ingrese el monto del préstamo: ");
-            double prestamo = Convert.ToDouble(Console.ReadLine());
+            //// Entrada de datos
+            //Console.Write("Ingrese el monto del préstamo: ");
+            //double prestamo = Convert.ToDouble(Console.ReadLine());
 
-            double tasaAnual = 0.05;  // 5%
-            double plazoAnios = 5;
+            //double tasaAnual = 0.05;  // 5%
+            //double plazoAnios = 5;
 
-            // ⿡ Intereses en un año
-            double interesAnual = prestamo * tasaAnual * 1;
+            //// ⿡ Intereses en un año
+            //double interesAnual = prestamo * tasaAnual * 1;
 
-            // ⿢ Intereses en el tercer trimestre del año (3 meses = 0.25 años)
-            double interesTercerTrimestre = prestamo * tasaAnual * 0.25;
+            //// ⿢ Intereses en el tercer trimestre del año (3 meses = 0.25 años)
+            //double interesTercerTrimestre = prestamo * tasaAnual * 0.25;
 
-            // ⿣ Intereses en el primer mes (1/12 años)
-            double interesPrimerMes = prestamo * tasaAnual * (1.0 / 12.0);
+            //// ⿣ Intereses en el primer mes (1/12 años)
+            //double interesPrimerMes = prestamo * tasaAnual * (1.0 / 12.0);
 
-            // ⿤ Total a pagar al final del préstamo (capital + intereses)
-            double interesTotal5Anios = prestamo * tasaAnual * plazoAnios;
-            double totalPagar = prestamo + interesTotal5Anios;
+            //// ⿤ Total a pagar al final del préstamo (capital + intereses)
+            //double interesTotal5Anios = prestamo * tasaAnual * plazoAnios;
+            //double totalPagar = prestamo + interesTotal5Anios;
 
-            // Salida de resultados
-            Console.WriteLine("\n===== RESULTADOS =====");
-            Console.WriteLine($"Intereses pagados en un año: ${interesAnual:N2}");
-            Console.WriteLine($"Intereses pagados en el tercer trimestre: ${interesTercerTrimestre:N2}");
-            Console.WriteLine($"Intereses pagados en el primer mes: ${interesPrimerMes:N2}");
-            Console.WriteLine($"Total a pagar (capital + intereses 5 años): ${totalPagar:N2}");
+            //// Salida de resultados
+            //Console.WriteLine("\n===== RESULTADOS =====");
+            //Console.WriteLine($"Intereses pagados en un año: ${interesAnual:N2}");
+            //Console.WriteLine($"Intereses pagados en el tercer trimestre: ${interesTercerTrimestre:N2}");
+            //Console.WriteLine($"Intereses pagados en el primer mes: ${interesPrimerMes:N2}");
+            //Console.WriteLine($"Total a pagar (capital + intereses 5 años): ${totalPagar:N2}");
 
-            Console.WriteLine("\nPresione cualquier tecla para salir...");
+            //Console.WriteLine("\nPresione cualquier tecla para salir...");
+            //Console.ReadKey();
+
+            //// Creamos objetos de tipo Auto
+            //Auto miAuto = new Auto("Toyota", "Corolla", 2020);
+            //miAuto.mostrarInfo();
+
+            //Auto bus = new Auto("Honda", "Civic", 2019);
+            //bus.mostrarInfo();
+
+            //Auto camion = new Auto("Ford", "F-150", 2021);
+            //camion.mostrarInfo();
+
+            //Console.ReadKey();
+
+
+            //Console.WriteLine("=== Ingrese el nombre del estudiante ===\n");
+            //string nombreEstudiante = Console.ReadLine();
+            //Console .WriteLine("=== Ingrese la edad del estudiante ===\n");
+            //int edad = int.Parse(Console.ReadLine());
+
+            //Estudiante estudiante = new Estudiante(nombreEstudiante, edad);
+            //estudiante.VerificarEdad();
+
+            //Producto.ProductCrud crud = new Producto.ProductCrud();
+            //bool salir = false;
+            //while (!salir)
+            //{
+            //    Console.WriteLine("\n=== Menú de Gestión de Productos ===");
+            //    Console.WriteLine("1. Agregar Producto");
+            //    Console.WriteLine("2. Mostrar Productos");
+            //    Console.WriteLine("3. Actualizar Producto");
+            //    Console.WriteLine("4. Eliminar producto");
+            //    Console.WriteLine("5. Salir");
+            //    string opcion = Console.ReadLine();
+            //    switch
+            //        (opcion)
+            //    {
+            //        case "1":
+            //            crud.AgregarProducto();
+            //            break;
+            //        case "2":
+            //            crud.MostrarProductos();
+            //            break;
+            //        case "3":
+            //            crud.actualizarProducto();
+            //            break;
+            //        case "4":
+            //            crud.EliminarProducto();
+            //            break;
+            //        case "5":
+            //            salir = true;
+            //            break;
+            //        default:
+            //            Console.WriteLine("Opción no válida. Por favor, intente de nuevo.");
+            //            break;
+            //    }
+
+
+            //Console.WriteLine("=== Programa Agenda ===");
+
+            //// Solicitar los datos de la persona
+            //Console.Write("Ingrese el nombre: ");
+            //string nombre = Console.ReadLine();
+
+            //Console.Write("Ingrese la edad: ");
+            //int edad = int.Parse(Console.ReadLine());
+
+            //Console.Write("Ingrese el género (F o M): ");
+            //string genero = Console.ReadLine();
+
+            //Console.Write("Ingrese el teléfono: ");
+            //string telefono = Console.ReadLine();
+
+            //// Crear objeto Persona
+            //Persona persona = new Persona(nombre, edad, genero, telefono);
+
+            //int opcion;
+            //do
+            //{
+            //    Console.WriteLine("\n--- Menú ---");
+            //    Console.WriteLine("1. Imprimir detalles de la persona");
+            //    Console.WriteLine("2. Calcular edad en días");
+            //    Console.WriteLine("3. Salir");
+            //    Console.Write("Seleccione una opción: ");
+            //    opcion = int.Parse(Console.ReadLine());
+
+            //    switch (opcion)
+            //    {
+            //        case 1:
+            //            persona.ImprimirDetalles();
+            //            break;
+
+            //        case 2:
+            //            persona.CalcularEdadEnDias();
+            //            break;
+
+            //        case 3:
+            //            Console.WriteLine("Saliendo del programa...");
+            //            break;
+
+            //        default:
+            //            Console.WriteLine("Opción no válida. Intente de nuevo.");
+            //            break;
+            //    }
+
+            //} while (opcion != 3);
+
+            //Console.ReadKey();
+
+
+            //Biblioteca biblioteca = new Biblioteca();
+            //int opcion;
+
+            //do
+            //{
+            //    Console.WriteLine("\n=== MENÚ DE LA BIBLIOTECA ===");
+            //    Console.WriteLine("1. Agregar libro");
+            //    Console.WriteLine("2. Listar libros");
+            //    Console.WriteLine("3. Buscar libro por título");
+            //    Console.WriteLine("4. Salir");
+            //    Console.Write("Seleccione una opción: ");
+
+            //    opcion = int.Parse(Console.ReadLine());
+
+            //    switch (opcion)
+            //    {
+            //        case 1:
+            //            biblioteca.AgregarLibro();
+            //            break;
+
+            //        case 2:
+            //            biblioteca.ListarLibros();
+            //            break;
+
+            //        case 3:
+            //            biblioteca.BuscarLibro();
+            //            break;
+
+            //        case 4:
+            //            Console.WriteLine("👋 Saliendo del programa...");
+            //            break;
+
+            //        default:
+            //            Console.WriteLine("Opción no válida. Intente de nuevo.");
+            //            break;
+            //    }
+
+            //} while (opcion != 4);
+
+            //Console.ReadKey();
+
+
+            //static void Main(string[] args)
+            //{
+            //    Universidad.Ejecutar();
+            //}
+
+
+            //Console.WriteLine("===== EMPRESA COMPUTRONIC =====");
+            //Console.Write("Ingrese el número de empleados: ");
+            //int cantidad = int.Parse(Console.ReadLine());
+
+            //List<Empleado> empleados = new List<Empleado>();
+
+            //for (int i = 0; i < cantidad; i++)
+            //{
+            //    Console.WriteLine($"\nEmpleado #{i + 1}");
+            //    Console.Write("Nombre: ");
+            //    string nombre = Console.ReadLine();
+
+            //    Empleado emp = new Empleado(nombre);
+
+            //    Console.Write("¿Cuántas ventas realizó hoy? ");
+            //    int numVentas = int.Parse(Console.ReadLine());
+
+            //    for (int j = 0; j < numVentas; j++)
+            //    {
+            //        Console.Write($"  Valor de la venta #{j + 1}: ");
+            //        decimal valor = decimal.Parse(Console.ReadLine());
+            //        emp.AgregarVenta(valor);
+            //    }
+
+            //    empleados.Add(emp);
+            //}
+
+            //Console.Clear();
+            //Console.WriteLine("===== RESULTADOS =====");
+
+            //foreach (Empleado e in empleados)
+            //{
+            //    e.ImprimirResumen();
+            //}
+
+            //Console.WriteLine("\nPresione una tecla para salir...");
+            //Console.ReadKey();
+
+
+
+
+
+
+
+
+
+            //List<Conductor> conductores = new List<Conductor>();
+
+            //Console.Write("Ingrese la cantidad de conductores: ");
+            //int n = int.Parse(Console.ReadLine());
+
+            //for (int i = 0; i < n; i++)
+            //{
+            //    Console.WriteLine($"\nConductor {i + 1}:");
+            //    Console.Write("Año de nacimiento: ");
+            //    int anio = int.Parse(Console.ReadLine());
+
+            //    Console.Write("Sexo (1: Femenino, 2: Masculino): ");
+            //    int sexo = int.Parse(Console.ReadLine());
+
+            //    Console.Write("Registro del carro (1: Bogotá, 2: Otras ciudades): ");
+            //    int registro = int.Parse(Console.ReadLine());
+
+            //    conductores.Add(new Conductor
+            //    {
+            //        AnioNacimiento = anio,
+            //        Sexo = sexo,
+            //        RegistroCarro = registro
+            //    });
+            //}
+
+            //int menores30 = 0;
+            //int masculinos = 0;
+            //int femeninos = 0;
+            //int masculinos12a30 = 0;
+            //int fueraBogota = 0;
+
+            //foreach (var c in conductores)
+            //{
+            //    int edad = c.CalcularEdad();
+
+            //    if (edad < 30) menores30++;
+            //    if (c.Sexo == 1) femeninos++;
+            //    if (c.Sexo == 2) masculinos++;
+            //    if (c.Sexo == 2 && edad >= 12 && edad <= 30) masculinos12a30++;
+            //    if (c.RegistroCarro == 2) fueraBogota++;
+            //}
+
+            //// Calcular porcentajes
+            //double pMenores30 = (double)menores30 / n * 100;
+            //double pFemeninos = (double)femeninos / n * 100;
+            //double pMasculinos = (double)masculinos / n * 100;
+            //double pMasculinos12a30 = (double)masculinos12a30 / n * 100;
+            //double pFueraBogota = (double)fueraBogota / n * 100;
+
+            //// Mostrar resultados
+            //Console.WriteLine("\n--- Resultados Estadísticos ---");
+            //Console.WriteLine($"Porcentaje de conductores menores de 30 años: {pMenores30:F2}%");
+            //Console.WriteLine($"Porcentaje de conductores femeninos: {pFemeninos:F2}%");
+            //Console.WriteLine($"Porcentaje de conductores masculinos: {pMasculinos:F2}%");
+            //Console.WriteLine($"Porcentaje de conductores masculinos entre 12 y 30 años: {pMasculinos12a30:F2}%");
+            //Console.WriteLine($"Porcentaje de conductores con carro registrado fuera de Bogotá: {pFueraBogota:F2}%");
+
+            //Console.ReadKey();
+
+
+
+
+
+
+            //TikTok app = new TikTok();
+            //app.Ejecutar();
+
+            //Console.ReadKey();
+
+
+
+            CentralDistribucion app = new CentralDistribucion();
+            app.Ejecutar();
+
             Console.ReadKey();
-
-
 
         }
     }
-    }
+}
+    
+
 
 

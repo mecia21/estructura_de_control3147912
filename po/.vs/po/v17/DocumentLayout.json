@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kjmec\\source\\repos\\po\\",
+  "WorkspaceRootPath": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kjmec\\source\\repos\\po\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{285C54A5-3188-4B83-9143-F04350E627FA}|EjercicioArray\\EjercicioArray.csproj|c:\\users\\kjmec\\source\\repos\\po\\ejercicioarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{285C54A5-3188-4B83-9143-F04350E627FA}|EjercicioArray\\EjercicioArray.csproj|solutionrelative:ejercicioarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\EjercicioArray\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EjercicioArray\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\po\\EjercicioArray\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\EjercicioArray\\Program.cs",
               "RelativeDocumentMoniker": "EjercicioArray\\Program.cs",
-              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\po\\EjercicioArray\\Program.cs",
+              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\EjercicioArray\\Program.cs",
               "RelativeToolTip": "EjercicioArray\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T21:22:14.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T21:22:14.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\po\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\po\\Class1.cs",
+              "ToolTip": "C:\\Users\\kjmec\\source\\repos\\ficha-31417912\\estructuras_de_contro_l3147912\\po\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T20:51:31.558Z",
               "EditorCaption": ""
